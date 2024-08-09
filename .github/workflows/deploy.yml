@@ -26,5 +26,5 @@ jobs:
         run: |
           python main.py
         env:
-          BOT_TOKEN: ${{ secrets.BTKN }}
+          BOT_TOKEN: ${{ secrets.BOTTKN }}
           YTKEY: ${{ secrets.YTK }}
