@@ -7,7 +7,7 @@ import json
 import re
 import speech_recognition as sr
 
-BOT_TOKEN = os.environ.get("Bot-token")
+BOT_TOKEN = os.environ.get("botToken")
 bot = telebot.TeleBot(BOT_TOKEN)
 YOUTUBE_API_KEY = os.environ.get("YTkey")
 recognizer = sr.Recognizer()
