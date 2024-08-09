@@ -24,7 +24,7 @@ jobs:
 
       - name: Run bot
         run: |
-          python bot.py
+          python main.py
         env:
           BOT_TOKEN: ${{ secrets.Bot-token }}
           YTKEY: ${{ secrets.YTkey }}
