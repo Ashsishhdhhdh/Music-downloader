@@ -1,5 +1,5 @@
 {
-  "name": "node-meta-store",
+  "name": "node-shazam",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
