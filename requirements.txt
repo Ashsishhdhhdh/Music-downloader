@@ -1,4 +1,1 @@
 yt-dlp==2024.10.22
-youtubesearchpython
-google-api-python-client
-SpeechRecognition
