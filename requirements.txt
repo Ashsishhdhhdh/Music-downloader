@@ -1,4 +1,3 @@
-os
 pyTelegramBotAPI
 yt-dlp
 youtubesearchpython
